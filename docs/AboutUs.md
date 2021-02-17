@@ -9,7 +9,7 @@ We are a team based in the [School of Continuing And Lifelong Education, Nationa
 
 ### Hong Jian Cheng
 
-<img src="images/hongJiancheng.png" width="200px">
+<img src="images/hongjiancheng.png" width="200px">
 
 [[github](https://github.com/HongJiancheng)]
 [[portfolio](team/hongJiancheng.md)]
